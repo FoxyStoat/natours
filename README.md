@@ -4,6 +4,11 @@ _For a fictitious nature tours company - Project by Jonas Schmedtmann_
 
 You can find a link to Jonas repo [Here](https://github.com/jonasschmedtmann/advanced-css-course)
 
+## How to run this Application?
+
+Clone or download this repo to your local machine, unzip and open index.html file in a browser.
+Alternatively, click [here]( https://foxystoat.github.io/natours/) to view the finished project on live GitHub page.
+
 ## What I learnt from this Project
 
 * Tons of modern cutting-edge CSS techniques to create stunning designs and effects: clip-path, background-clip, mask-image, background-blend-mode, shape-outside, filter, backdrop-filter, object-fit, transform, column-count, hyphens, perspective, calc() and custom CSS properties.
@@ -28,16 +33,11 @@ You can find a link to Jonas repo [Here](https://github.com/jonasschmedtmann/adv
 
 * Responsive images in HTML and CSS for faster pageloads: resolution switching, density switching, art direction.
 
-* SVG images in HTML and CSS: how and why to use SVG, generating SVG sprites, changing SVG colors in CSS and best practices.
+* SVG images in HTML and CSS: how and why to use SVG, generating SVG sprites, changing SVG colours in CSS and best practices.
 
 * Videos in HTML and CSS: building a background video effect.
 
 * How to architect and build a simple grid system with floats.  This project uses float layout.
-
-### How to run this Application?
-
-Clone or download this repo to your local machine, unzip and open index.html file in a browser.
-Alternately, click [here]( https://foxystoat.github.io/natours/) to view the finished project.
 
 ### Licensing
 
