@@ -6,6 +6,8 @@ You can find a link to Jonas repo [Here](https://github.com/jonasschmedtmann/adv
 
 ## How to run this Application?
 
+This project is still being built
+
 Clone or download this repo to your local machine, unzip and open index.html file in a browser.
 Alternatively, click [Here to view the finished website on live GitHub page.]( https://foxystoat.github.io/natours/)
 
