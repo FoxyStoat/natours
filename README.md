@@ -7,7 +7,7 @@ You can find a link to Jonas repo [Here](https://github.com/jonasschmedtmann/adv
 ## How to run this Application?
 
 Clone or download this repo to your local machine, unzip and open index.html file in a browser.
-Alternatively, click [here]( https://foxystoat.github.io/natours/) to view the finished project on live GitHub page.
+Alternatively, click [Here for a live preview of the website]( https://foxystoat.github.io/natours/) to view the finished project on live GitHub page.
 
 ## What I learnt from this Project
 
