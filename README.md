@@ -11,6 +11,13 @@ This project is still being built
 Clone or download this repo to your local machine, unzip and open index.html file in a browser.
 Alternatively, click [Here to view the finished website on live GitHub page.]( https://foxystoat.github.io/natours/)
 
+## Screenshots of Finished Project
+
+![screenshot of finished project](screenshot-hero.png "screenshot of finished project")
+
+![screenshot of finished project](screenshot-booking.png "screenshot of finished project")
+
+
 ## What I learnt from this Project
 
 * Tons of modern cutting-edge CSS techniques to create stunning designs and effects: clip-path, background-clip, mask-image, background-blend-mode, shape-outside, filter, backdrop-filter, object-fit, transform, column-count, hyphens, perspective, calc() and custom CSS properties.
