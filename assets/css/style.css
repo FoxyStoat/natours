@@ -897,7 +897,7 @@ body {
 .section-about {
   background-color: #f7f7f7;
   padding: 25rem 0;
-  margin-top: -20vh; }
+  margin-top: -15vh; }
   @media (max-width: 56.25em) {
     .section-about {
       padding: 20rem 0; } }
@@ -907,7 +907,7 @@ body {
   background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/nat-4.jpg);
   background-size: cover;
   transform: skewY(-7deg);
-  margin-top: -18rem; }
+  margin-top: -10rem; }
   .section-features > * {
     transform: skewY(7deg); }
   @media (max-width: 56.25em) {
@@ -917,7 +917,7 @@ body {
 .section-tours {
   background-color: #f7f7f7;
   padding: 25rem 0 15rem 0;
-  margin-top: -18vh; }
+  margin-top: -10rem; }
   @media (max-width: 56.25em) {
     .section-tours {
       padding: 20rem 0 10rem 0; } }
