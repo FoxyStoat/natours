@@ -20,7 +20,8 @@
   "devDependencies": {
     "autoprefixer": "^9.1.5",
     "concat": "^1.0.3",
-    "node-sass": "^4.9.0"
+    "node-sass": "^4.9.0",
+    "postcss-cli": "^6.0.0"
   },
   "dependencies": {
     "hoek": "^5.0.3",
