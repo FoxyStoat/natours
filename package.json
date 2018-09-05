@@ -4,7 +4,8 @@
   "description": "landing page for natours",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass assets/sass/main.scss assets/css/style.css"
+    "compile:sass": "node-sass assets/sass/main.scss assets/css/style.css",
+    "concat:css": "concat -o assets/css/style.concat.css assets/css/icon-font.css assets/css/style.css"
   },
   "repository": {
     "type": "git",
